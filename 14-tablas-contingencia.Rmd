@@ -64,7 +64,7 @@ La tabla de valores esperados bajo $H_0$ es
 
 \[Q = \dfrac{(24-27.14)^2}{27.14} + \cdots+\dfrac{(8-12.16)^2}{12.16}+\cdots = 6.68\]
 
-El valor-*p* es $\bar F_{\chi^2_6}(6.68) = 0.3$. Rechazamos la hipótesis de independencia entre el currículum y la preferencia electoral con un nivel de significancia del 10%.
+El valor-*p* es $\bar F_{\chi^2_6}(6.68) = 0.3$. No rechazamos la hipótesis de independencia entre el currículum y la preferencia electoral con un nivel de significancia del 10%.
 
 ## Prueba de homogeneidad
 
